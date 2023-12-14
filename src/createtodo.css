@@ -1,0 +1,22 @@
+/* CreateTodoTask.css */
+
+.input-field {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 8px;
+  }
+  .input-field::placeholder{
+    color: #007bff;
+  }
+  .button {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #f8f5f5;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
